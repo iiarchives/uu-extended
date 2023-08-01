@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " U ",
+      "   ",
+      "  S"
+    ],
+    "key": {
+      "U": {
+        "item": "techreborn:uu_matter"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:blaze_rod",
+      "count": 1
+    }
+  }
+

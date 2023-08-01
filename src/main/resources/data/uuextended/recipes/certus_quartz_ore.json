@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " U ",
+      "Q  ",
+      "   "
+    ],
+    "key": {
+      "U": {
+        "item": "techreborn:uu_matter"
+      },
+      "Q": {
+        "item": "minecraft:quartz"
+      }
+    },
+    "result": {
+      "item": "ae2:certus_quartz_crystal",
+      "count": 1
+    }
+  }
+
