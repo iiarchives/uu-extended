@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# UU-Matter Extended
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Ever thought UU-Matter was way too lame? Neither did I.  
+UU-Matter Extended adds all sorts of new recipes for the following mods:
+    - Vanilla Minecraft (slimeball, wool, blaze rods, etc)
+    - [Applied Energistics 2](https://appliedenergistics.github.io/) (certus quartz, more to come...)
