@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "UUU",
+      "UNU",
+      "UUU"
+    ],
+    "key": {
+      "U": {
+        "item": "techreborn:uu_matter"
+      },
+      "N": {
+        "item": "minecraft:enchanted_golden_apple"
+      }
+    },
+    "result": {
+      "item": "minecraft:totem_of_undying",
+      "count": 1
+    }
+  }
+

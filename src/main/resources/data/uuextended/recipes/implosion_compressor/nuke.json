@@ -1,0 +1,21 @@
+{
+    "type": "techreborn:implosion_compressor",
+    "power": 60,
+    "time": 10000,
+    "ingredients": [
+        {
+            "item": "techreborn:uu_matter",
+            "count": 1
+        },
+        {
+            "item": "minecraft:end_crystal",
+            "count": 16
+        }
+    ],
+    "results": [
+        {
+            "item": "techreborn:nuke",
+            "count": 1
+        }
+    ]
+}
