@@ -1,24 +1,23 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      " U ",
-      "UE ",
-      "  S"
+        " U ",
+        "UE ",
+        "  S"
     ],
     "key": {
-      "U": {
-        "item": "techreborn:uu_matter"
-      },
-      "E": {
-        "item": "minecraft:ender_pearl"
-      },
-      "S": {
-        "item": "minecraft:sand"
-      }
+        "U": {
+            "item": "techreborn:uu_matter"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "S": {
+            "item": "minecraft:sand"
+        }
     },
     "result": {
-      "item": "minecraft:end_stone",
-      "count": 1
+        "item": "minecraft:end_stone",
+        "count": 1
     }
 }
-

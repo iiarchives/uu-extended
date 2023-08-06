@@ -1,18 +1,17 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      " U ",
-      "   ",
-      "   "
+        " U ",
+        "   ",
+        "   "
     ],
     "key": {
-      "U": {
-        "item": "techreborn:uu_matter"
-      }
+        "U": {
+            "item": "techreborn:uu_matter"
+        }
     },
     "result": {
-      "item": "minecraft:white_wool",
-      "count": 1
+        "item": "minecraft:white_wool",
+        "count": 1
     }
-  }
-
+}

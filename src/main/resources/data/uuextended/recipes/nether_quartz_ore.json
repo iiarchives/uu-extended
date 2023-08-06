@@ -1,21 +1,20 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      " UU",
-      "U U",
-      " N "
+        " UU",
+        "U U",
+        " N "
     ],
     "key": {
-      "U": {
-        "item": "techreborn:uu_matter"
-      },
-      "N": {
-        "item": "minecraft:netherrack"
-      }
+        "U": {
+            "item": "techreborn:uu_matter"
+        },
+        "N": {
+            "item": "minecraft:netherrack"
+        }
     },
     "result": {
-      "item": "minecraft:nether_quartz_ore",
-      "count": 1
+        "item": "minecraft:nether_quartz_ore",
+        "count": 1
     }
-  }
-
+}

@@ -1,18 +1,18 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      "   ",
-      "  U",
-      "   "
+        "   ",
+        "  U",
+        "   "
     ],
     "key": {
-      "U": {
-        "item": "techreborn:uu_matter"
-      }
+        "U": {
+            "item": "techreborn:uu_matter"
+        }
     },
     "result": {
-      "item": "minecraft:slime_ball",
-      "count": 1
+        "item": "minecraft:slime_ball",
+        "count": 1
     }
-  }
+}
 
