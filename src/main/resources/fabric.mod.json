@@ -12,7 +12,7 @@
 		"sources": "https://github.com/iiPythonx/uu-extended"
 	},
 	"license": "MIT",
-	"icon": "assets/modid/icon.png",
+	"icon": "assets/uuextended/icon.png",
 	"environment": "*",
 	"entrypoints": {},
 	"mixins": [],
