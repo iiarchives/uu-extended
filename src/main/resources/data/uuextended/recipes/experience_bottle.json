@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " U ",
+        "ULU",
+        " U "
+    ],
+    "key": {
+        "U": {
+            "item": "techreborn:uu_matter"
+        },
+        "L": {
+            "item": "minecraft:lapis_lazuli"
+        }
+    },
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 1
+    }
+}
+
