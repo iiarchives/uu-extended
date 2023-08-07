@@ -1,0 +1,18 @@
+{
+    "type": "reborncore:padded",
+    "pattern": [
+        " U ",
+        "UU ",
+        "U  "
+    ],
+    "key": {
+        "U": {
+            "item": "techreborn:uu_matter"
+        }
+    },
+    "result": {
+        "item": "techreborn:zinc_dust",
+        "count": 1
+    }
+}
+
