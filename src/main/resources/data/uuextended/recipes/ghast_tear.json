@@ -1,0 +1,17 @@
+{
+    "type": "reborncore:padded",
+    "pattern": [
+        "   ",
+        "U  ",
+        "   "
+    ],
+    "key": {
+        "U": {
+            "item": "techreborn:uu_matter"
+        }
+    },
+    "result": {
+        "item": "minecraft:ghast_tear",
+        "count": 1
+    }
+}
