@@ -1,0 +1,23 @@
+{
+    "type": "reborncore:padded",
+    "pattern": [
+        "UIU",
+        "UGU",
+        "UUU"
+    ],
+    "key": {
+        "U": {
+            "item": "techreborn:uu_matter"
+        },
+        "I": {
+            "item": "techreborn:iridium_alloy_plate"
+        },
+        "G": {
+            "item": "techreborn:glassfiber_cable"
+        }
+    },
+    "result": {
+        "item": "minecraft:superconductor_cable",
+        "count": 1
+    }
+}
