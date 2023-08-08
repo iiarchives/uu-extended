@@ -1,0 +1,20 @@
+{
+    "type": "reborncore:padded",
+    "pattern": [
+        "US ",
+        "   ",
+        "   "
+    ],
+    "key": {
+        "U": {
+            "item": "techreborn:uu_matter"
+        },
+        "S": {
+            "item": "minecraft:acacia_sapling"
+        }
+    },
+    "result": {
+        "item": "minecraft:acacia_log",
+        "count": 8
+    }
+}
