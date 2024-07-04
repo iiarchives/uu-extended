@@ -5,7 +5,8 @@
             "item": "ad_astra:mars_stone"
         },
         {
-            "item": "techreborn:uu_matter"
+            "item": "techreborn:uu_matter",
+            "count": 3
         },
         {
             "item": "minecraft:deepslate"
