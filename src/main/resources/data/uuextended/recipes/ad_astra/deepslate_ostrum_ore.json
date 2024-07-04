@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "ad_astra:mars_stone"
+        },
+        {
+            "item": "techreborn:uu_matter"
+        },
+        {
+            "item": "minecraft:deepslate"
+        }
+    ],
+    "result": {
+        "item": "ad_astra:deepslate_ostrum_ore"
+    }
+}

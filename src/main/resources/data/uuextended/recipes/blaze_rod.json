@@ -14,7 +14,6 @@
         }
     },
     "result": {
-        "item": "minecraft:blaze_rod",
-        "count": 1
+        "item": "minecraft:blaze_rod"
     }
 }

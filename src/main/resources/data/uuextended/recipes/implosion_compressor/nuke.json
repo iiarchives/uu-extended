@@ -4,8 +4,7 @@
     "time": 10000,
     "ingredients": [
         {
-            "item": "techreborn:uu_matter",
-            "count": 1
+            "item": "techreborn:uu_matter"
         },
         {
             "item": "minecraft:end_crystal",
@@ -14,8 +13,7 @@
     ],
     "results": [
         {
-            "item": "techreborn:nuke",
-            "count": 1
+            "item": "techreborn:nuke"
         }
     ]
 }

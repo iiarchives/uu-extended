@@ -1,5 +1,5 @@
 {
-    "type": "reborncore:padded",
+    "type": "minecraft:crafting_shaped",
     "pattern": [
         "UIU",
         "UGU",
@@ -17,7 +17,6 @@
         }
     },
     "result": {
-        "item": "techreborn:superconductor_cable",
-        "count": 1
+        "item": "techreborn:superconductor_cable"
     }
 }
